@@ -1,0 +1,36 @@
+#ajouter{
+    background-color: green;
+    color: white;
+    border: none;
+}
+
+#vider{
+    background-color: rgb(171, 28, 97);
+    color:white;
+    border: none;
+    margin: 10px;
+
+}
+
+
+body{
+   text-align: center;
+   font-family: 'Times New Roman', Times, serif;
+    align-items: center;
+    align-content: center;
+    background-color: pink;
+}
+
+li{
+    margin: 5px;
+}
+
+.terminee{
+    text-decoration: line-through;
+    color: rgb(157, 15, 62);
+}
+
+.supprimer{
+    color: aliceblue;
+    background-color: brown;
+}
